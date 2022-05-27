@@ -17,7 +17,7 @@
 * [Does NATS do queuing? Does NATS do load balancing?](faq.md#does-nats-do-queuing-does-nats-do-load-balancing)
 * [Can I list the subjects that exist in my NATS cluster?](faq.md#can-i-list-the-subjects-that-exist-in-my-nats-cluster)
 * [Does NATS support subject wildcards?](faq.md#does-nats-support-subject-wildcards)
-* [What is the right kind of Stream consumer to use?](faq.md)
+* [What is the right kind of Stream consumer to use?](faq.md#what-is-the-right-kind-of-stream-consumer-to-use)
 * [What do ‘verbose’ and ‘pedantic’ mean when using CONNECT?](faq.md#what-do-verbose-and-pedantic-mean-when-using-connect)
 * [Does NATS offer any guarantee of message ordering?](faq.md#does-nats-offer-any-guarantee-of-message-ordering)
 * [Is there a message size limitation in NATS?](faq.md#is-there-a-message-size-limitation-in-nats)
